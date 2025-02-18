@@ -11,10 +11,10 @@ import (
 	"math"
 	"strings"
 
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/io"
-	"github.com/cpmech/gosl/la/oblas"
-	"github.com/cpmech/gosl/utl"
+	"github.com/biotinker/gosl/chk"
+	"github.com/biotinker/gosl/io"
+	"github.com/biotinker/gosl/la/oblas"
+	"github.com/biotinker/gosl/utl"
 )
 
 // Matrix implements a column-major representation of a matrix by using a linear array that can be passed to Fortran code

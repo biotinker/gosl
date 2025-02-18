@@ -7,8 +7,8 @@ package num
 import (
 	"math"
 
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/fun"
+	"github.com/biotinker/gosl/chk"
+	"github.com/biotinker/gosl/fun"
 )
 
 // The algorithms below are based on [1]

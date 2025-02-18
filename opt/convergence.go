@@ -3,9 +3,9 @@ package opt
 import (
 	"math"
 
-	"github.com/cpmech/gosl/fun"
-	"github.com/cpmech/gosl/la"
-	"github.com/cpmech/gosl/utl"
+	"github.com/biotinker/gosl/fun"
+	"github.com/biotinker/gosl/la"
+	"github.com/biotinker/gosl/utl"
 )
 
 // Convergence assists in checking the convergence of numerical optimizers

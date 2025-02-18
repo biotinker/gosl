@@ -7,8 +7,8 @@ package tri
 import (
 	"testing"
 
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/io"
+	"github.com/biotinker/gosl/chk"
+	"github.com/biotinker/gosl/io"
 )
 
 func Test_delaunay01(tst *testing.T) {

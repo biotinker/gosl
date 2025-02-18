@@ -9,7 +9,7 @@ package la
 import (
 	"testing"
 
-	"github.com/cpmech/gosl/chk"
+	"github.com/biotinker/gosl/chk"
 )
 
 func TestSpMumps01a(tst *testing.T) {

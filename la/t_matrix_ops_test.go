@@ -8,9 +8,9 @@ import (
 	"math"
 	"testing"
 
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/io"
-	"github.com/cpmech/gosl/utl"
+	"github.com/biotinker/gosl/chk"
+	"github.com/biotinker/gosl/io"
+	"github.com/biotinker/gosl/utl"
 )
 
 func checkIdentity(tst *testing.T, k string, a *Matrix, tol float64) {

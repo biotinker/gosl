@@ -5,7 +5,7 @@
 package msh
 
 import (
-	"github.com/cpmech/gosl/utl"
+	"github.com/biotinker/gosl/utl"
 )
 
 // EdgeKey holds 3 sorted numbers to identify an edge

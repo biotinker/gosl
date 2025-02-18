@@ -5,8 +5,8 @@
 package ode
 
 import (
-	"github.com/cpmech/gosl/la"
-	"github.com/cpmech/gosl/utl"
+	"github.com/biotinker/gosl/la"
+	"github.com/biotinker/gosl/utl"
 )
 
 // Output holds output data (prepared by Solver)

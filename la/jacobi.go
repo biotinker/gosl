@@ -7,7 +7,7 @@ package la
 import (
 	"math"
 
-	"github.com/cpmech/gosl/chk"
+	"github.com/biotinker/gosl/chk"
 )
 
 // Jacobi performs the Jacobi transformation of a symmetric matrix to find its eigenvectors and

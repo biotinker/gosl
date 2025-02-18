@@ -5,8 +5,8 @@
 package ode
 
 import (
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/la"
+	"github.com/biotinker/gosl/chk"
+	"github.com/biotinker/gosl/la"
 )
 
 // FwEuler implements the (explicit) Forward Euler method

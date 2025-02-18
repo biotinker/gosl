@@ -5,8 +5,8 @@
 package hb
 
 import (
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/utl"
+	"github.com/biotinker/gosl/chk"
+	"github.com/biotinker/gosl/utl"
 )
 
 // PutDeep2 puts a Deep2 slice into file

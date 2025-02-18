@@ -4,7 +4,7 @@
 
 package rnd
 
-import "github.com/cpmech/gosl/utl"
+import "github.com/biotinker/gosl/utl"
 
 // Variable holds all data defining a single random variable including information about a
 // probability distribution that bests represents this variable

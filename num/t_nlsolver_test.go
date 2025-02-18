@@ -8,10 +8,10 @@ import (
 	"math"
 	"testing"
 
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/fun"
-	"github.com/cpmech/gosl/io"
-	"github.com/cpmech/gosl/la"
+	"github.com/biotinker/gosl/chk"
+	"github.com/biotinker/gosl/fun"
+	"github.com/biotinker/gosl/io"
+	"github.com/biotinker/gosl/la"
 )
 
 func problem(index int) (name string, xTrial, xReference la.Vector, funcF fun.Vv, funcJsparse fun.Tv, funcJdense fun.Mv) {

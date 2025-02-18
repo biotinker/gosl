@@ -7,8 +7,8 @@ package num
 import (
 	"math"
 
-	"github.com/cpmech/gosl/fun"
-	"github.com/cpmech/gosl/utl"
+	"github.com/biotinker/gosl/fun"
+	"github.com/biotinker/gosl/utl"
 )
 
 // DerivCen5 approximates the derivative df/dx using central differences with 5 points.

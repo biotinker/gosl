@@ -7,9 +7,9 @@ package opt
 import (
 	"testing"
 
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/io"
-	"github.com/cpmech/gosl/la"
+	"github.com/biotinker/gosl/chk"
+	"github.com/biotinker/gosl/io"
+	"github.com/biotinker/gosl/la"
 )
 
 func runPowellTest(tst *testing.T, fnkey string, p *Problem, x0 la.Vector, tolf, tolx, α float64) (sol *Powell) {

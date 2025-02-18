@@ -17,7 +17,7 @@ import "C"
 import (
 	"unsafe"
 
-	"github.com/cpmech/gosl/chk"
+	"github.com/biotinker/gosl/chk"
 )
 
 // ToMatrix converts a sparse matrix in triplet form to column-compressed form using Umfpack's routines.

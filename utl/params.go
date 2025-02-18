@@ -5,8 +5,8 @@
 package utl
 
 import (
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/io"
+	"github.com/biotinker/gosl/chk"
+	"github.com/biotinker/gosl/io"
 )
 
 // P holds numeric parameters defined by a name N and a value V.

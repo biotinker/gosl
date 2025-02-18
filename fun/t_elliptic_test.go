@@ -8,8 +8,8 @@ import (
 	"math"
 	"testing"
 
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/io"
+	"github.com/biotinker/gosl/chk"
+	"github.com/biotinker/gosl/io"
 )
 
 func d2r(deg float64) float64 { return deg * math.Pi / 180.0 }

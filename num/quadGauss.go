@@ -7,9 +7,9 @@ package num
 import (
 	"math"
 
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/fun"
-	"github.com/cpmech/gosl/utl"
+	"github.com/biotinker/gosl/chk"
+	"github.com/biotinker/gosl/fun"
+	"github.com/biotinker/gosl/utl"
 )
 
 // QuadGaussL10 approximates the integral of the function f(x) between a and b, by ten-point

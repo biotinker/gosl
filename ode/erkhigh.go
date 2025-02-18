@@ -7,8 +7,8 @@ package ode
 import (
 	"math"
 
-	"github.com/cpmech/gosl/la"
-	"github.com/cpmech/gosl/utl"
+	"github.com/biotinker/gosl/la"
+	"github.com/biotinker/gosl/utl"
 )
 
 // newERKhighOrder returns the coefficients of the explicit Runge-Kutta method (high order)

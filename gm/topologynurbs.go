@@ -5,8 +5,8 @@
 package gm
 
 import (
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/utl"
+	"github.com/biotinker/gosl/chk"
+	"github.com/biotinker/gosl/utl"
 )
 
 // ExtractSurfaces returns a new NURBS representing a boundary of this NURBS

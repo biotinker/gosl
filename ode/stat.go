@@ -7,7 +7,7 @@ package ode
 import (
 	"time"
 
-	"github.com/cpmech/gosl/io"
+	"github.com/biotinker/gosl/io"
 )
 
 // Stat holds statistics and output data

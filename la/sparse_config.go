@@ -5,7 +5,7 @@
 package la
 
 import (
-	"github.com/cpmech/gosl/chk"
+	"github.com/biotinker/gosl/chk"
 )
 
 // The SparseConfig structure holds configuration arguments for sparse solvers

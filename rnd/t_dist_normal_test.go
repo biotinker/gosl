@@ -7,9 +7,9 @@ package rnd
 import (
 	"testing"
 
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/io"
-	"github.com/cpmech/gosl/utl"
+	"github.com/biotinker/gosl/chk"
+	"github.com/biotinker/gosl/io"
+	"github.com/biotinker/gosl/utl"
 )
 
 func Test_dist_normal_01(tst *testing.T) {

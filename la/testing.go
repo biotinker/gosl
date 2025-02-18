@@ -8,7 +8,7 @@ import (
 	"math/cmplx"
 	"testing"
 
-	"github.com/cpmech/gosl/chk"
+	"github.com/biotinker/gosl/chk"
 )
 
 // TestSolverResidual check the residual of a linear system solution

@@ -11,9 +11,9 @@ import (
 	"math"
 	"sort"
 
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/io"
-	"github.com/cpmech/gosl/la"
+	"github.com/biotinker/gosl/chk"
+	"github.com/biotinker/gosl/io"
+	"github.com/biotinker/gosl/la"
 )
 
 // Vertex holds vertex data (e.g. from msh file)

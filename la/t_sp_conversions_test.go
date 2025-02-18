@@ -7,7 +7,7 @@ package la
 import (
 	"testing"
 
-	"github.com/cpmech/gosl/chk"
+	"github.com/biotinker/gosl/chk"
 )
 
 func TestSpConversion01(tst *testing.T) {

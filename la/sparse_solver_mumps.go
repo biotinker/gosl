@@ -21,8 +21,8 @@ import "C"
 import (
 	"unsafe"
 
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/io"
+	"github.com/biotinker/gosl/chk"
+	"github.com/biotinker/gosl/io"
 )
 
 // sparseSolverMumps wraps the MUMPS solver

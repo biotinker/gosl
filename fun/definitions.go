@@ -9,7 +9,7 @@ package fun
 import (
 	"math"
 
-	"github.com/cpmech/gosl/la"
+	"github.com/biotinker/gosl/la"
 )
 
 // π = 3.141592653589...

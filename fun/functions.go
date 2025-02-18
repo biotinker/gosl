@@ -8,7 +8,7 @@ import (
 	"math"
 	"math/big"
 
-	"github.com/cpmech/gosl/chk"
+	"github.com/biotinker/gosl/chk"
 )
 
 // flags and table of values

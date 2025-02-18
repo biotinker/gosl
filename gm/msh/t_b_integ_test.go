@@ -8,7 +8,7 @@ import (
 	"math"
 	"testing"
 
-	"github.com/cpmech/gosl/la"
+	"github.com/biotinker/gosl/la"
 )
 
 var (
